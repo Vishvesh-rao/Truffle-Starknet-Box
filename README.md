@@ -9,7 +9,7 @@ The Truffle Warp-transpiler Box provides the boilerplate Truffle structure neces
 1. As yet this box has not been officially published on truffles repo so for now to unbox run:
 
 ```bash
-truffle unbox https://github.com/NethermindEth/warp-test-box
+truffle unbox https://github.com/Vishvesh-rao/Truffle-Starknet-Box
 ```
 2. The solidity contracts to be transpiled should be put into `/contracts/starkent/` folder.
 
